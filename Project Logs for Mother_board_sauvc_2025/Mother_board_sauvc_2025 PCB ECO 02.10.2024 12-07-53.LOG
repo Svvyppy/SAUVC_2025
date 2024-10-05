@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetU?_14 Pin=VT?-1
+Added Pin To Net: NetName=V bat Pin=VT?-5
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Power_switch Member=Component R? 160K
+Added Member To Class: ClassName=Power_switch Member=Component R? 160K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF

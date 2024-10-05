@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=V bat Pin=C5-1
+Removed Pin From Net: NetName=V bat Pin=PS1-1
+Removed Pin From Net: NetName=V bat Pin=PS2-1
+Added Component: Designator=C?(Capacitor 8x12)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor 8x12)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21B106KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "±15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 Â"; VariantName = "[No Variations]"
+Added Component: Designator=R7(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R8(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R9(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R10(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R11(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R12(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1206R)
+Add component (AddParameter): Name = "Category"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Persent"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TCR"; Value = "200 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 ê"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N5819HW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=V bat Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=V bat Pin=U7-17
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=V bat Pin=VT3-5
+Change Net Name : Old Net Name=V bat New Net Name=V AKB
+Added Pin To Net: NetName=D Pin=VT1-6
+Added Pin To Net: NetName=D Pin=VT1-7
+Added Pin To Net: NetName=D Pin=VT1-8
+Added Pin To Net: NetName=D Pin=VT2-6
+Added Pin To Net: NetName=D Pin=VT2-7
+Added Pin To Net: NetName=D Pin=VT2-8
+Added Pin To Net: NetName=D Pin=VT3-6
+Added Pin To Net: NetName=D Pin=VT3-7
+Added Pin To Net: NetName=D Pin=VT3-8
+Added Pin To Net: NetName=D Pin=VT4-6
+Added Pin To Net: NetName=D Pin=VT4-7
+Added Pin To Net: NetName=D Pin=VT4-8
+Added Net: Name=D
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=VD?-1
+Added Pin To Net: NetName=NetC?_2 Pin=VT1-4
+Added Pin To Net: NetName=NetC?_2 Pin=VT2-4
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Pin To Net: NetName=NetR7_2 Pin=U7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-1
+Added Pin To Net: NetName=NetR8_2 Pin=U7-3
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U7-4
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=NetR11_2 Pin=U7-5
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U7-11
+Added Pin To Net: NetName=NetR?_2 Pin=VD?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU7_12 Pin=U7-12
+Added Pin To Net: NetName=NetU7_12 Pin=VT1-1
+Added Pin To Net: NetName=NetU7_12 Pin=VT2-5
+Added Net: Name=NetU7_12
+Added Pin To Net: NetName=NetU7_13 Pin=U7-13
+Added Pin To Net: NetName=NetU7_13 Pin=VT3-4
+Added Pin To Net: NetName=NetU7_13 Pin=VT4-4
+Added Net: Name=NetU7_13
+Added Pin To Net: NetName=NetU7_14 Pin=U7-14
+Added Pin To Net: NetName=NetU7_14 Pin=VT3-1
+Added Pin To Net: NetName=NetU7_14 Pin=VT4-5
+Added Net: Name=NetU7_14
+Added Pin To Net: NetName=S Pin=VT1-2
+Added Pin To Net: NetName=S Pin=VT1-3
+Added Pin To Net: NetName=S Pin=VT2-2
+Added Pin To Net: NetName=S Pin=VT2-3
+Added Pin To Net: NetName=S Pin=VT3-2
+Added Pin To Net: NetName=S Pin=VT3-3
+Added Pin To Net: NetName=S Pin=VT4-2
+Added Pin To Net: NetName=S Pin=VT4-3
+Added Net: Name=S
+Added Pin To Net: NetName=V bat Pin=C5-1
+Added Pin To Net: NetName=V bat Pin=PS1-1
+Added Pin To Net: NetName=V bat Pin=PS2-1
+Added Pin To Net: NetName=V bat Pin=U7-15
+Added Pin To Net: NetName=V bat Pin=VT2-1
+Added Pin To Net: NetName=V bat Pin=VT4-1
+Added Net: Name=V bat
+Added Pin To Net: NetName=V res Pin=C?-1
+Added Pin To Net: NetName=V res Pin=C?-1
+Added Pin To Net: NetName=V res Pin=R10-1
+Added Pin To Net: NetName=V res Pin=U7-16
+Added Pin To Net: NetName=V res Pin=VT1-5
+Added Net: Name=V res
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 10 ìêÔ
+Added Member To Class: ClassName=Power Member=Component R7 634K
+Added Member To Class: ClassName=Power Member=Component R8 23.2K
+Added Member To Class: ClassName=Power Member=Component R9 49.9K
+Added Member To Class: ClassName=Power Member=Component R10 634K
+Added Member To Class: ClassName=Power Member=Component R11 23.2K
+Added Member To Class: ClassName=Power Member=Component R12 49.9K
+Added Member To Class: ClassName=Power Member=Component R? 1.96K
+Added Member To Class: ClassName=Power Member=Component VD? 1N5819HW
+Added Member To Class: ClassName=Power Member=Component VT1 IRF7240PBF
+Added Member To Class: ClassName=Power Member=Component VT2 IRF7240PBF
+Added Member To Class: ClassName=Power Member=Component VT3 IRF7240PBF
+Added Member To Class: ClassName=Power Member=Component VT4 IRF7240PBF

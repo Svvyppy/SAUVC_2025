@@ -1,0 +1,7 @@
+Added Component: Designator=+(TP)
+Added Component: Designator=-(TP)
+Added Pin To Net: NetName=V res Pin=+-1
+Added Pin To Net: NetName=GND Pin=--1
+Added Pin To Net: NetName=NetC13_2 Pin=VT4-4
+Added Member To Class: ClassName=Con Member=Component + TP
+Added Member To Class: ClassName=Con Member=Component - TP

@@ -1,0 +1,62 @@
+Added Component: Designator=VT?(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SOIC-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDS6675BZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñharacter"; Value = "P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU?_12 Pin=VT?-1
+Added Pin To Net: NetName=NetU?_12 Pin=VT?-1
+Added Pin To Net: NetName=NetU?_14 Pin=VT?-1
+Added Pin To Net: NetName=NetU?_14 Pin=VT?-1
+Added Pin To Net: NetName=S Pin=VT?-1
+Added Pin To Net: NetName=S Pin=VT?-2
+Added Pin To Net: NetName=S Pin=VT?-2
+Added Pin To Net: NetName=S Pin=VT?-2
+Added Pin To Net: NetName=S Pin=VT?-3
+Added Pin To Net: NetName=S Pin=VT?-3
+Added Pin To Net: NetName=S Pin=VT?-3
+Added Pin To Net: NetName=NetC?_2 Pin=VT?-4
+Added Pin To Net: NetName=NetC?_2 Pin=VT?-4
+Added Pin To Net: NetName=NetU?_13 Pin=VT?-4
+Added Pin To Net: NetName=NetU?_13 Pin=VT?-4
+Added Pin To Net: NetName=D Pin=VT?-5
+Added Pin To Net: NetName=V AKB Pin=VT?-5
+Added Pin To Net: NetName=V bat Pin=VT?-5
+Added Pin To Net: NetName=V bat Pin=VT?-5
+Added Pin To Net: NetName=V res Pin=VT?-5
+Added Pin To Net: NetName=D Pin=VT?-6
+Added Pin To Net: NetName=D Pin=VT?-6
+Added Pin To Net: NetName=D Pin=VT?-6
+Added Pin To Net: NetName=D Pin=VT?-7
+Added Pin To Net: NetName=D Pin=VT?-7
+Added Pin To Net: NetName=D Pin=VT?-7
+Added Pin To Net: NetName=D Pin=VT?-8
+Added Pin To Net: NetName=D Pin=VT?-8
+Added Pin To Net: NetName=D Pin=VT?-8
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Power_switch Member=Component R? 160K
+Added Member To Class: ClassName=Power_switch Member=Component R? 160K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component R? 10K
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF
+Added Member To Class: ClassName=Power_switch Member=Component VT? IRF7240PBF

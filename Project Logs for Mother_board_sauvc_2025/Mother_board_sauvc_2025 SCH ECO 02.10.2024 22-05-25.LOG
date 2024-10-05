@@ -1,0 +1,20 @@
+Add Pin To Net: Pin=TP4-1 Old Net=NetTP4_1 New Net=ethernet 4
+Add Pin To Net: Pin=VT2-6 Old Net=D New Net=V bat
+Add Pin To Net: Pin=VT2-7 Old Net=D New Net=V bat
+Add Pin To Net: Pin=VT2-8 Old Net=D New Net=V bat
+Add Pin To Net: Pin=VT3-6 Old Net=D New Net=V bat
+Add Pin To Net: Pin=VT3-7 Old Net=D New Net=V bat
+Add Pin To Net: Pin=VT3-8 Old Net=D New Net=V bat
+Change Pin Designator/Name:  Old Designator=J1B-B23 Old Name=B23 New Designator =C27 New Name=C27
+Change Pin Designator/Name:  Old Designator=J1B-B24 Old Name=B24 New Designator =C24 New Name=C24
+Change Pin Designator/Name:  Old Designator=J1C-C22 Old Name=C22 New Designator =C31 New Name=C31
+Change Pin Designator/Name:  Old Designator=J1C-C23 Old Name=C23 New Designator =C30 New Name=C30
+Change Pin Designator/Name:  Old Designator=J1C-C24 Old Name=C24 New Designator =C28 New Name=C28
+Change Pin Designator/Name:  Old Designator=J1C-C25 Old Name=C25 New Designator =C29 New Name=C29
+Change Pin Designator/Name:  Old Designator=J1C-C26 Old Name=C26 New Designator =B23 New Name=B23
+Change Pin Designator/Name:  Old Designator=J1C-C27 Old Name=C27 New Designator =B24 New Name=B24
+Change Pin Designator/Name:  Old Designator=J1C-C28 Old Name=C28 New Designator =C22 New Name=C22
+Change Pin Designator/Name:  Old Designator=J1C-C29 Old Name=C29 New Designator =C23 New Name=C23
+Change Pin Designator/Name:  Old Designator=J1C-C30 Old Name=C30 New Designator =C25 New Name=C25
+Change Pin Designator/Name:  Old Designator=J1C-C31 Old Name=C31 New Designator =C26 New Name=C26
+Change Pin Designator/Name:  Old Designator=VT4-6 Old Name=D New Designator =G New Name=4

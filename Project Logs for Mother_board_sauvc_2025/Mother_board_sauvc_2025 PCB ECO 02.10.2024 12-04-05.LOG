@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=V AKB Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=V res Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=U7-8
+Removed Pin From Net: NetName=V bat Pin=U7-15
+Removed Pin From Net: NetName=V res Pin=U7-16
+Removed Pin From Net: NetName=V AKB Pin=U7-17
+Removed Pin From Net: NetName=GND Pin=U7-21
+Removed Pin From Net: NetName=V res Pin=VT1-5
+Removed Pin From Net: NetName=V bat Pin=VT2-5
+Removed Pin From Net: NetName=V AKB Pin=VT3-5
+Removed Pin From Net: NetName=V bat Pin=VT4-5
+Removed Member From Class: ClassName=Power Member=C8
+Removed Member From Class: ClassName=Power Member=R7
+Removed Member From Class: ClassName=Power Member=R8
+Removed Member From Class: ClassName=Power Member=R9
+Removed Member From Class: ClassName=Power Member=R10
+Removed Member From Class: ClassName=Power Member=R11
+Removed Member From Class: ClassName=Power Member=R12
+Removed Member From Class: ClassName=Power Member=R13
+Removed Member From Class: ClassName=Power Member=U7
+Removed Member From Class: ClassName=Power Member=VD1
+Removed Member From Class: ClassName=Power Member=VT1
+Removed Member From Class: ClassName=Power Member=VT2
+Removed Member From Class: ClassName=Power Member=VT3
+Removed Member From Class: ClassName=Power Member=VT4

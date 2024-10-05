@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=3.3V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=V bat Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=DA1-1
+Removed Pin From Net: NetName=3.3V Pin=DA1-2
+Removed Pin From Net: NetName=5V Pin=DA1-3
+Removed Pin From Net: NetName=3.3V Pin=DA1-4
+Removed Pin From Net: NetName=5V Pin=HL2-1
+Removed Pin From Net: NetName=RS485_P Pin=J1-A27
+Removed Pin From Net: NetName=RS485_N Pin=J1-A28
+Removed Pin From Net: NetName=GPIO16 Pin=J1-C14
+Removed Pin From Net: NetName=V bat Pin=PS1-1
+Removed Pin From Net: NetName=GND Pin=PS1-2
+Removed Pin From Net: NetName=GND Pin=PS1-3
+Removed Pin From Net: NetName=5V Pin=PS1-4
+Removed Pin From Net: NetName=GND Pin=PS1-5
+Removed Pin From Net: NetName=V bat Pin=PS2-1
+Removed Pin From Net: NetName=GND Pin=PS2-2
+Removed Pin From Net: NetName=GND Pin=PS2-3
+Removed Pin From Net: NetName=GND Pin=PS2-5
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=U1-27
+Removed Pin From Net: NetName=5V Pin=U1-28
+Removed Pin From Net: NetName=PWM1 Pin=U2-4
+Removed Pin From Net: NetName=PWM2 Pin=U2-5
+Removed Pin From Net: NetName=PWM3 Pin=U2-11
+Removed Pin From Net: NetName=PWM4 Pin=U2-13
+Removed Pin From Net: NetName=UART3_RX Pin=U3-7
+Removed Pin From Net: NetName=UART3_TX Pin=U3-29
+Removed Pin From Net: NetName=GPIO16 Pin=U3-36
+Removed Pin From Net: NetName=GPIO20 Pin=U3-38
+Removed Pin From Net: NetName=PWM5 Pin=U4-4
+Removed Pin From Net: NetName=PWM6 Pin=U4-5
+Removed Pin From Net: NetName=PWM7 Pin=U4-11
+Removed Pin From Net: NetName=PWM8 Pin=U4-13
+Removed Pin From Net: NetName=PWM9 Pin=U5-4
+Removed Pin From Net: NetName=PWM10 Pin=U5-5
+Removed Pin From Net: NetName=PWM11 Pin=U5-11
+Removed Pin From Net: NetName=PWM12 Pin=U5-13
+Change Component Comment : Designator=DD1 Old Comment==Value New Comment=Value
+Change Component Comment : Designator=DD2 Old Comment==Value New Comment=Value
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Component: Designator=TP5(TP)
+Added Component: Designator=TP6(TP)
+Added Component: Designator=TP7(TP)
+Added Component: Designator=TP8(TP)
+Added Pin To Net: NetName=GPIO19 Pin=J1-C16
+Added Pin To Net: NetName=ethernet 1 Pin=TP1-1
+Added Pin To Net: NetName=ethernet 5 Pin=TP2-1
+Added Pin To Net: NetName=ethernet 2 Pin=TP3-1
+Added Pin To Net: NetName=ethernet 6 Pin=TP4-1
+Added Pin To Net: NetName=ethernet 3 Pin=TP5-1
+Added Pin To Net: NetName=ethernet 7 Pin=TP6-1
+Added Pin To Net: NetName=ethernet 8 Pin=TP8-1
+Add Net: Net with name "GPIO16" already exists
+Add Net: Net with name "PWM1" already exists
+Add Net: Net with name "PWM2" already exists
+Add Net: Net with name "PWM3" already exists
+Add Net: Net with name "PWM4" already exists
+Add Net: Net with name "PWM5" already exists
+Add Net: Net with name "PWM6" already exists
+Add Net: Net with name "PWM7" already exists
+Add Net: Net with name "PWM8" already exists
+Add Net: Net with name "PWM9" already exists
+Add Net: Net with name "PWM10" already exists
+Add Net: Net with name "PWM11" already exists
+Add Net: Net with name "PWM12" already exists
+Added Pin To Net: NetName=RS-485_N Pin=J1-A28
+Added Net: Name=RS-485_N
+Added Pin To Net: NetName=RS-485_P Pin=J1-A27
+Added Net: Name=RS-485_P
+Add Net: Net with name "UART3_RX" already exists
+Add Net: Net with name "UART3_TX" already exists
+Change Class Name : Old Net Name=RPI New Net Name=Designator
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=RS-485

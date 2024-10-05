@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP4
+Add Net: Net with name "GPIO16" already exists
+Add Net: Net with name "PWM1" already exists
+Add Net: Net with name "PWM2" already exists
+Add Net: Net with name "PWM3" already exists
+Add Net: Net with name "PWM4" already exists
+Add Net: Net with name "PWM5" already exists
+Add Net: Net with name "PWM6" already exists
+Add Net: Net with name "PWM7" already exists
+Add Net: Net with name "PWM8" already exists
+Add Net: Net with name "PWM9" already exists
+Add Net: Net with name "PWM10" already exists
+Add Net: Net with name "PWM11" already exists
+Add Net: Net with name "PWM12" already exists
+Add Net: Net with name "UART3_RX" already exists
+Add Net: Net with name "UART3_TX" already exists
+Add Class: Class already exists: Designator
